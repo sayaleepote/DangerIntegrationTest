@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "080274c26dab9c65fc7489a89abc1d67"
+build_time: [1586944076, 329422000]
+inputs:
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/Releases/Sources/Array+Version.swift": [1586943759, 915665828]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/Releases/Sources/Releases.swift": [1586943759, 916210038]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/Releases/Sources/ReleasesError.swift": [1586943759, 916838945]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/Releases/Sources/Version.swift": [1586943759, 917066705]
