@@ -1,5 +1,5 @@
 version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
 options: "b0630364eaae01c9ec2bd007e342bf06"
-build_time: [1586944067, 55183000]
+build_time: [1586954181, 978954000]
 inputs:
-  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/Files/Sources/Files.swift": [1586943760, 800274161]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/Files/Sources/Files.swift": [1586954020, 422137983]

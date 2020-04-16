@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "0b134c7049c9598c189fdf6ccc883e91"
+build_time: [1586954035, 731840000]
+inputs:
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/Configuration.swift": [1586954019, 579232212]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/File.swift": [1586954019, 579373253]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/Follow.swift": [1586954019, 579509753]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/Gist.swift": [1586954019, 579683608]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/Issue.swift": [1586954019, 580017364]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/Label.swift": [1586954019, 580207351]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/Milestone.swift": [1586954019, 580412385]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/Octokit.swift": [1586954019, 580723141]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/Parameters.swift": [1586954019, 580846867]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/PublicKey.swift": [1586954019, 580997363]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/PullRequest.swift": [1586954019, 581156651]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/Releases.swift": [1586954019, 581329995]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/Repositories.swift": [1586954019, 581538827]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/Review.swift": [1586954019, 581761207]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/Stars.swift": [1586954019, 581908674]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/String+PercentEncoding.swift": [1586954019, 582044605]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/Time.swift": [1586954019, 582195081]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/URL+URLParameters.swift": [1586954019, 582318910]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/octokit.swift/OctoKit/User.swift": [1586954019, 582453554]

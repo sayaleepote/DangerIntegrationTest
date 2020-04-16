@@ -1,5 +1,5 @@
 version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
 options: "a55ba4379cb5296b1034ee5718594e0c"
-build_time: [1586944067, 58242000]
+build_time: [1586954027, 670326000]
 inputs:
-  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/DangerShellExecutor/ShellExecutor.swift": [1586943769, 360124874]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/DangerShellExecutor/ShellExecutor.swift": [1586954023, 589233663]

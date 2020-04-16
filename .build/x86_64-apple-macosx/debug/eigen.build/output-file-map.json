@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/eigen.build/master.swiftdeps"
+  },
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/DangerIntegrationTest/TestLib.swift": {
+    "dependencies": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/eigen.build/DangerIntegrationTest/TestLib.d",
+    "object": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/eigen.build/DangerIntegrationTest/TestLib.swift.o",
+    "swiftmodule": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/eigen.build/DangerIntegrationTest/TestLib~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/eigen.build/DangerIntegrationTest/TestLib.swiftdeps"
+  }
+}
