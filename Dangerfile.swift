@@ -8,7 +8,7 @@ SwiftLint.lint(inline: true)
 
 // The equivalent to running `swiftlint` in the root of the folder
 SwiftLint.lint(lintAllFiles: false)
-SwiftLint.lint(folder: "DangerIntegrationTest")
+SwiftLint.lint(root: "DangerIntegrationTest")
 
 let editedFiles = danger.git.modifiedFiles + danger.git.createdFiles
 message("These files have changed: \(editedFiles.joined(separator: ", "))")
