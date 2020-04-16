@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "83d2d71b85ebd39aa61d281c7c5f955b"
+build_time: [1586954045, 839495000]
+inputs:
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/DangerIntegrationTest/TestLib.swift": [1586952156, 519835097]

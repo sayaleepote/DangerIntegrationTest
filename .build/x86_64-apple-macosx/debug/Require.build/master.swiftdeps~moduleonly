@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "b8a44bb0c8aefce9e175be6566ea29c8"
+build_time: [1586954181, 977249000]
+inputs:
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/Require/Sources/Require.swift": [1586954021, 747102616]

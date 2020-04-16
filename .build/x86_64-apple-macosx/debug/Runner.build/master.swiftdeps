@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "13a97592a8785981a0cc741cf1078681"
+build_time: [1586954187, 442539000]
+inputs:
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Runner/Commands/Edit.swift": [1586954023, 589932040]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Runner/Commands/RunDangerJS.swift": [1586954023, 590464057]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Runner/Commands/Runner.swift": [1586954023, 590937180]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Runner/MarathonScriptManager.swift": [1586954023, 591335250]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Runner/Script+Imports.swift": [1586954023, 591547764]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Runner/main.swift": [1586954023, 591861280]

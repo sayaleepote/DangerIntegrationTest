@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/RequestKit.build/master.swiftdeps"
+  },
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/RequestKit/Sources/RequestKit/JSONPostRouter.swift": {
+    "dependencies": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/RequestKit.build/JSONPostRouter.d",
+    "object": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/RequestKit.build/JSONPostRouter.swift.o",
+    "swiftmodule": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/RequestKit.build/JSONPostRouter~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/RequestKit.build/JSONPostRouter.swiftdeps"
+  },
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/RequestKit/Sources/RequestKit/RequestKitSession.swift": {
+    "dependencies": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/RequestKit.build/RequestKitSession.d",
+    "object": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/RequestKit.build/RequestKitSession.swift.o",
+    "swiftmodule": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/RequestKit.build/RequestKitSession~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/RequestKit.build/RequestKitSession.swiftdeps"
+  },
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/RequestKit/Sources/RequestKit/Router.swift": {
+    "dependencies": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/RequestKit.build/Router.d",
+    "object": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/RequestKit.build/Router.swift.o",
+    "swiftmodule": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/RequestKit.build/Router~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/RequestKit.build/Router.swiftdeps"
+  }
+}

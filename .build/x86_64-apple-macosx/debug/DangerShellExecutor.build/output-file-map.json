@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/DangerShellExecutor.build/master.swiftdeps"
+  },
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/DangerShellExecutor/ShellExecutor.swift": {
+    "dependencies": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/DangerShellExecutor.build/ShellExecutor.d",
+    "object": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/DangerShellExecutor.build/ShellExecutor.swift.o",
+    "swiftmodule": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/DangerShellExecutor.build/ShellExecutor~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/x86_64-apple-macosx/debug/DangerShellExecutor.build/ShellExecutor.swiftdeps"
+  }
+}

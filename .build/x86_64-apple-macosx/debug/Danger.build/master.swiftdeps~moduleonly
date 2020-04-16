@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "21e05395dbf49be7428f036d0d2a9d9d"
+build_time: [1586954042, 794016000]
+inputs:
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Danger/BitBucketServerDSL.swift": [1586954023, 583467286]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Danger/Danger.swift": [1586954023, 583767389]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Danger/DangerDSL.swift": [1586954023, 584125821]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Danger/DangerResults.swift": [1586954023, 153396889]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Danger/DangerUtils.swift": [1586954023, 153562006]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Danger/Extensions/DateFormatterExtensions.swift": [1586954023, 153775382]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Danger/Extensions/NSRegularExpressionExtensions.swift": [1586954023, 153962675]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Danger/File.swift": [1586954023, 584423930]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Danger/GitDSL.swift": [1586954023, 584802117]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Danger/GitHubDSL.swift": [1586954023, 585311100]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Danger/GitLabDSL.swift": [1586954023, 585813793]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Danger/Plugins/SwiftLint/CurrentPathProvider.swift": [1586954023, 586531060]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Danger/Plugins/SwiftLint/SwiftLint.swift": [1586954023, 587000296]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Danger/Plugins/SwiftLint/SwiftLintViolation.swift": [1586954023, 587462954]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Danger/Plugins/SwiftLint/SwiftlintReportDeleter.swift": [1586954023, 155347004]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Danger/Report.swift": [1586954023, 587965415]
+  "/Users/sapote/Documents/GitHub/DangerIntegrationTest/.build/checkouts/swift/Sources/Danger/Settings.swift": [1586954023, 155658804]
